@@ -1,9 +1,14 @@
-# Day 2 DevOps Lab DSTI 18/10/2022
+# (18/10/2022) Day 2 DevOps Lab @ DSTI
 
-## Team members
-- Sascha Moccozet
-- Benjamin Theveneaux
-- Ana Escobar 
+## Dream team members
+- Theveneaux, Benjamin 
+- Moccozet, Sascha 
+- Escobar, Ana 
 
-## Exercise link
+
+## Extras
+**This is an extra comment to practice managing conflicts in git**
+
+
+## Exercise link - Adaltas
 https://github.com/adaltas/dsti-devops-2022-fall/blob/master/courses/devops/modules/02.scm/lab.md
