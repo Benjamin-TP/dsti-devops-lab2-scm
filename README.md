@@ -15,3 +15,5 @@ https://github.com/adaltas/dsti-devops-2022-fall/blob/master/courses/devops/modu
 - git commit -m "\<message\>" : do a commit with a message (the commit is still in local)
 - git pull : pull the changes made from the remote to the local
 - git push : push the local commit onto the remote
+- git checkout \<branch\>: get info on the branch
+- git status : see the status of the current branch
