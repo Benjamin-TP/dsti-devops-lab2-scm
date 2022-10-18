@@ -7,3 +7,7 @@
 
 ## Exercise link
 https://github.com/adaltas/dsti-devops-2022-fall/blob/master/courses/devops/modules/02.scm/lab.md
+
+## Conflict from feature2
+Benjamin doesn't like conflicts :(
+
