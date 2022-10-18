@@ -25,3 +25,5 @@ https://github.com/adaltas/dsti-devops-2022-fall/blob/master/courses/devops/modu
 
 ## Conflict from feature2
 Benjamin doesn't like conflicts :(
+But some of them are unavoidable and we have to manage them.
+
