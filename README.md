@@ -17,3 +17,6 @@ https://github.com/adaltas/dsti-devops-2022-fall/blob/master/courses/devops/modu
 - git push : push the local commit onto the remote
 - git checkout \<branch\>: get info on the branch
 - git status : see the status of the current branch
+
+## Conflict from feature2
+Benjamin doesn't like conflicts :(
